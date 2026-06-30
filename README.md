@@ -1,16 +1,58 @@
-## Hi there 👋
+### Hey there 👋 I'm Godfrey Adembesa
 
-<!--
-**GODFREY-PNG/GODFREY-PNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist & ML Engineer | Medical Microbiology background**
 
-Here are some ideas to get you started:
+I turn messy data into decisions that optimize revenue and combat risks. I started in a microbiology lab analyzing pathogens today I analyze business data with the same rigor: ask the right question, trust the evidence, find the answer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Nairobi, Kenya · 🟢 Open to roles & contracts
+
+### What I Do
+
+My current focus is the **business sector** — solving operational problems with sales, customer, transaction, and financial data:
+
+- 🎯 **Churn prediction** — flagging at-risk customers before they leave
+- 🧩 **Customer segmentation** — finding hidden patterns so marketing budget goes to the customers worth fighting for
+- 📊 **Sales analytics dashboards** — giving stakeholders one clear view to act on
+- 💰 **Credit scoring & bankruptcy prediction** — flagging financial risk early
+
+I handle projects **end-to-end**: ETL/ELT, data cleaning, validation, EDA, feature engineering, modeling, evaluation — through to deployment via FastAPI, served on Streamlit or web apps, with monitoring and logging so models stay reliable in production, not just accurate on day one.
+
+**🌱 Emerging focus:** I'm gradually transitioning toward **health-tech**, where my microbiology background and ML skills intersect. I'm exploring problems like antimicrobial resistance, disease outbreak detection, disease prediction, and disease burden modeling — starting with an insurance cost prediction system already live.
+
+
+
+### Selected Impact
+
+| Metric | Result |
+|---|---|
+| $8.15M |Simulated Transaction data analyzed |
+| 23% | Potential churn reduction optimized for recall |
+| 85% | Bankruptcy model accuracy |
+| +40% | Projected marketing ROI |
+
+
+
+### Tech Stack
+
+**Machine Learning:** Sckit-learn -Classification · Regression · Clustering · XGBoost · LightGBM ·Decision tree· RandomForest  · SMOTE · SHAP
+**Analytics:** EDA · Feature Engineering · Statistical Modeling · A/B Testing · Time Series (ARIMA, Prophet)
+**Deep Learning:** PyTorch · TensorFlow · CNNs (image-based diagnostics)
+**Data Engineering:** SQL · PostgreSQL · MySQL · MongoDB · ETL Pipelines · API Ingestion
+**Deployment & MLOps:** FastAPI · Streamlit · Dash · Plotly · Model Monitoring & Logging · Railway · Render · Vercel
+**Compliance:** GDPR-conscious data handling & privacy-by-design practices
+
+
+
+### Soft Skills
+
+Clear communication with technical and non-technical stakeholders · Cross-functional collaboration · Translating business pain points into data solutions
+
+
+
+### Connect With Me
+
+📂 [Portfolio](https://godfreyadembesa.vercel.app/) · 💼 [LinkedIn](www.linkedin.com/in/adembesa-imbindi-a55183354) · 🐦 [X/Twitter](https://x.com/godfrey_imbindi) · 📧 [Email](mailto:godfreyimbindi@gmail.com)
+
+
+
+### Featured Repositories
