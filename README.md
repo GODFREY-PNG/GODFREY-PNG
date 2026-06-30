@@ -75,7 +75,7 @@ Clear communication with technical and non-technical stakeholders · Cross-funct
 
 ## Connect With Me
 
-[Portfolio](#) &nbsp;·&nbsp; [LinkedIn](#) &nbsp;·&nbsp; [X/Twitter](#) &nbsp;·&nbsp; [Email](mailto:godfreyimbindi@gmail.com)
+[Portfolio](https://godfreyadembesa.vercel.app/) &nbsp;·&nbsp; [LinkedIn](www.linkedin.com/in/adembesa-imbindi-a55183354) &nbsp;·&nbsp; [X/Twitter](https://x.com/godfrey_imbindi) &nbsp;·&nbsp; [Email](mailto:godfreyimbindi@gmail.com)
 
 <br>
 
