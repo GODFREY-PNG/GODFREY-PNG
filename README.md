@@ -20,7 +20,8 @@ My current focus is the **business sector** — solving operational problems wit
 
 I handle projects end-to-end: ETL/ELT, data cleaning, validation, EDA, feature engineering, modeling, and evaluation — through to deployment via FastAPI, served on Streamlit or web apps, with monitoring and logging so models stay reliable in production, not just accurate on day one.
 
-**Emerging focus:** I'm gradually transitioning toward health-tech, where my microbiology background and ML skills intersect — exploring antimicrobial resistance, disease outbreak detection, disease prediction, and disease burden modeling. I've already built an insurance cost prediction system in this space.
+**Emerging focus:** 
+I'm gradually transitioning toward health-tech, where my microbiology background and ML skills intersect — exploring antimicrobial resistance, disease outbreak detection, disease prediction, and disease burden modeling. I've already built an insurance cost prediction system in this space.
 
 <br>
 
